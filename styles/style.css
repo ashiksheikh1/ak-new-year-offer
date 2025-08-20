@@ -1,7 +1,13 @@
-
+.center{
+    text-align: center;
+}
 
 .common-color{
     color: #FF0000;
+  
+}
+.opacity{
+    opacity: 0.6;
 }
 header{
     justify-items: center;
@@ -91,3 +97,61 @@ header .title{
    border: none;
    padding: 5px 15px;
 }
+
+/* section-4 */
+.section-4{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.radious{
+    border:10px solid #FF0000;
+    border-radius: 100%;
+    padding: 15px;
+}
+/* section-5 */
+.para{
+    padding-bottom:40px ;
+}
+.pic{
+    text-align: end;
+}
+
+
+.section-6{
+   
+
+}
+.email{
+    background-color: white;
+}
+.last-btn{
+    border: none;
+}
+.last{
+    background-color:red;
+    padding: 10px 15px;
+}
+footer{
+    width: full;
+    background-color: #070211;
+    color: white;
+    height: 400px;
+    padding: 50px;
+
+}
+.div{
+    display: flex;
+    justify-content: space-between;
+}
+.icon-1{
+    
+}
+.div-3{
+    text-align: center;
+    padding: 30px;
+    
+}
+
+     
