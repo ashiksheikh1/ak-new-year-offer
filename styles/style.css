@@ -111,6 +111,9 @@ header .title{
     padding: 15px;
 }
 /* section-5 */
+.section-5{
+    max-height: 400px;
+}
 .para{
     padding-bottom:40px ;
 }
